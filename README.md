@@ -1,4 +1,4 @@
-# New_Year-s_fortune
+# New_Year_fortune
 
 2021 New Year's fortune
 
